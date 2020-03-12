@@ -1,4 +1,4 @@
-# petrovich
+# project - petrovich
 
 ## Project setup
 ```
